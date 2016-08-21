@@ -8,6 +8,15 @@
   <packaging>jar</packaging>
   <name>Liquibase suppress output plugin</name>
   <description>Liquibase plugin to suppress either SQL file output, or direct execution on database.</description>
+  <url>https://github.com/Jurrie/liquibase-suppress-output</url>
+
+  <licenses>
+    <license>
+      <name>GNU LESSER GENERAL PUBLIC LICENSE</name>
+      <url>https://raw.githubusercontent.com/Jurrie/liquibase-suppress-output/master/LICENSE</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
 
   <properties>
   	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
